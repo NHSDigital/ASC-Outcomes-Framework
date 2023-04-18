@@ -52,7 +52,7 @@ python -m ascof.create_ascof
 # Link to the publication
 
 Report:
-https://digital.nhs.uk/data-and-information/publications/statistical/adult-social-care-statistics-in-england/an-overview
+https://digital.nhs.uk/data-and-information/publications/statistical/adult-social-care-outcomes-framework-ascof
 
 # Authors
 Liz Selfridge, Luke Atkinson, Tomide Adeyeye
