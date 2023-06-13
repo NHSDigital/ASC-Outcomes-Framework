@@ -57,7 +57,7 @@ https://digital.nhs.uk/data-and-information/publications/statistical/adult-socia
 # Authors
 Liz Selfridge, Luke Atkinson, Tomide Adeyeye
 
-Repo Owner Contact Details: tomide.adeyeye1@nhs.net
+Repo Owner Contact Details: socialcare.statistics@nhs.net
 
 # Licence
 
